@@ -1,0 +1,6 @@
+## Interface: 100200
+## Title: HideMyBars
+## SavedVariablesPerCharacter: HideMyBarsSavedSettings
+## Author: XGDragon
+## IconTexture: Interface/Icons/spell_magic_lesserinvisibilty
+core.lua
